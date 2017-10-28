@@ -15,8 +15,8 @@ and open the template in the editor.
         function add(){
             
         }
-        function subtract(){
-            
+        function subtract($a, $b){
+           return $a - $b; 
         }
          ?>
     </body>
