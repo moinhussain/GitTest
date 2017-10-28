@@ -18,6 +18,9 @@ and open the template in the editor.
         function subtract($a, $b){
            return $a - $b; 
         }
+        function divide($a,$b){
+           return $a/$b;
+        }
          ?>
     </body>
 </html>
