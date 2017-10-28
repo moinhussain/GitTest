@@ -15,6 +15,9 @@ and open the template in the editor.
         function add(){
             
         }
+        function subtract(){
+            
+        }
          ?>
     </body>
 </html>
