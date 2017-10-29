@@ -14,10 +14,6 @@ and open the template in the editor.
         // put your code here
         function add($a,$b){
 
-           echo "this is code added in master";
-
-            echo "code added in branch";
-
             return $a + $b;
         }
         function subtract($a, $b){
