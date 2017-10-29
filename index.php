@@ -23,9 +23,10 @@ and open the template in the editor.
            return $a/$b;
         }
         function multiplication($a,$b){
-            return $a * $b;
+            return $a * $b *2;
         }
         function newFunction(){
+            
         }
         
          ?>
