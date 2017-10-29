@@ -17,6 +17,7 @@ and open the template in the editor.
             return $a + $b;
         }
         function subtract($a, $b){
+            echo "subtreact changes"
            return $a - $b; 
         }
         function divide($a,$b){
