@@ -23,7 +23,12 @@ and open the template in the editor.
            return $a/$b;
         }
         function multiplication($a,$b){
+
             return $a * $b *2;
+
+            echo "Multiplicatio function";
+           
+
         }
         function newFunction(){
             
