@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         function add($a,$b){
+           echo "this is code added in master";
             return $a + $b;
         }
         function subtract($a, $b){
