@@ -17,7 +17,7 @@ and open the template in the editor.
             return $a + $b;
         }
         function subtract($a, $b){
-            echo "subtreact changes"
+            echo "subtreact changes";
            return $a - $b; 
         }
         function divide($a,$b){
@@ -33,7 +33,14 @@ and open the template in the editor.
 
         }
         function newFunction(){
-            
+            echo "new function";
+
+            $subtactResult = subtract(10, 2);
+            echo $subtactResult;
+
+            $a = add(10,2);
+            echo $a;
+
         }
         
          ?>
