@@ -21,6 +21,7 @@ and open the template in the editor.
            return $a - $b; 
         }
         function divide($a,$b){
+            echo "divide modifired";
            return $a/$b;
         }
         function multiplication($a,$b){
