@@ -24,6 +24,8 @@ and open the template in the editor.
         function multiplication($a,$b){
             return $a * $b;
         }
+        function newFunction(){
+        }
         
          ?>
     </body>
